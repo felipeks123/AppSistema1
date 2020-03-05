@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#FF2800</color>
+    <color name="colorPrimaryDark">#FF1400</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="corBorda">#86300C19</color>
+    <color name="corFonte">#77B60000</color>
+    <color name="corFundo">#0C3453</color>
 </resources>
